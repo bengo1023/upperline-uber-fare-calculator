@@ -4,7 +4,7 @@ Show off your newly acquired dev skillz to build a command line uber fare calcul
 
 Uber Estimate's listed prices will help you with valuable pricing information for at least UberX, UberBlack, UberXL, UberSUV.
 
-http://uberestimate.com/prices/New-York-City/
+[http://uberestimate.com/prices/New-York-City/]
 
 Hint: Each method should have at least two arguments, one for how far you will go and one for how long the trip will take. To start, turn off surge-pricing (see Next Steps)
 
@@ -16,9 +16,9 @@ Next Steps:
 
 See if your calculator can answer the following questions:
 
-"Can we use default arguments somewhere?"
-"How can you implement surge pricing in your calculator?"
-"Do all ubers have the same surge pricing multiplier?"
-"Can your calculator print out which uber is the best option?"
-"Can you continously determine a fare until the user is done? (e.g. typing in "I'm done with this.")"
-"How can your calculator tell you whether to take an uber or a yellow taxi?"
++"Can we use default arguments somewhere?"
++"How can you implement surge pricing in your calculator?"
++"Do all ubers have the same surge pricing multiplier?"
++"Can your calculator print out which uber is the best option?"
++"Can you continously determine a fare until the user is done? (e.g. typing in "I'm done with this.")"
++"How can your calculator tell you whether to take an uber or a yellow taxi?"
