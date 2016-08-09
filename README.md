@@ -16,9 +16,9 @@ Next Steps:
 
 See if your calculator can answer the following questions:
 
-+"Can we use default arguments somewhere?"
-+"How can you implement surge pricing in your calculator?"
-+"Do all ubers have the same surge pricing multiplier?"
-+"Can your calculator print out which uber is the best option?"
-+"Can you continously determine a fare until the user is done? (e.g. typing in "I'm done with this.")"
-+"How can your calculator tell you whether to take an uber or a yellow taxi?"
++ "Can we use default arguments somewhere?"
++ "How can you implement surge pricing in your calculator?"
++ "Do all ubers have the same surge pricing multiplier?"
++ "Can your calculator print out which uber is the best option?"
++ "Can you continously determine a fare until the user is done? (e.g. typing in "I'm done with this.")"
++ "How can your calculator tell you whether to take an uber or a yellow taxi?"
